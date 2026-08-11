@@ -7,5 +7,4 @@ HackerRank SQL (Intermediate) – Earned on 11 August 2026
 
 ## Contents
 - SQL query solutions
-- HackerRank certification proof
-[View Certificate](certificate/sql_intermediate certificate.pdf)
+- HackerRank certification proof: [View Certificate](certificate/sql_intermediate%20certificate.pdf)
