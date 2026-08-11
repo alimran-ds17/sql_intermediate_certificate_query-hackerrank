@@ -16,6 +16,5 @@ on c.id = i.customer_id
 group by c.id, c.customer_name
 having sum(i.total_price) <= (
   select avg(total_price) * 0.25
-  from invoice
-)
+  from invoice )
 order by amount_spent desc;
